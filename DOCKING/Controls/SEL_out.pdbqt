@@ -1,0 +1,540 @@
+MODEL 1
+REMARK VINA RESULT:      -6.2      0.000      0.000
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      42.896  38.822  41.440  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      41.941  39.537  41.584  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      41.113  40.187  41.754  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      44.069  37.937  41.388  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      43.713  36.897  41.389  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      44.594  38.123  40.442  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      44.987  38.158  42.533  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      46.357  37.579  42.464  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      46.658  37.423  43.508  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      46.412  36.185  41.776  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      45.971  36.246  40.772  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      45.807  35.456  42.329  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      47.835  35.638  41.713  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      48.408  35.007  42.833  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      49.709  34.480  42.759  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      47.845  34.921  43.757  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      50.443  34.580  41.567  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      50.144  33.989  43.625  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      49.880  35.216  40.448  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      51.443  34.164  41.507  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      48.581  35.747  40.525  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      50.446  35.294  39.524  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      48.152  36.236  39.653  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      47.409  38.547  41.872  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      48.229  37.981  41.413  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      47.843  39.179  42.656  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      46.976  39.197  41.099  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      44.333  37.947  43.844  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      45.024  38.199  44.662  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      43.444  38.584  43.935  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      44.023  36.895  43.952  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.1     10.103     12.341
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      44.237  46.984  49.208  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      43.425  46.119  49.396  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      42.738  45.327  49.590  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      45.317  47.955  48.979  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      45.235  48.745  49.739  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      46.276  47.437  49.119  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      45.254  48.552  47.622  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      46.303  48.179  46.634  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      46.831  47.326  47.081  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      45.735  47.683  45.274  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      46.519  47.163  44.709  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      45.424  48.532  44.652  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      44.513  46.789  45.461  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      43.215  47.309  45.304  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      42.096  46.473  45.450  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      43.075  48.358  45.065  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      42.266  45.113  45.752  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      41.096  46.879  45.322  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      43.559  44.589  45.919  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      41.402  44.465  45.854  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      44.678  45.427  45.778  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      43.694  43.536  46.152  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      45.675  45.012  45.907  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      47.381  49.272  46.436  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      48.217  48.877  45.846  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      47.786  49.601  47.400  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      46.982  50.148  45.907  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      44.969  50.004  47.645  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      44.901  50.398  46.621  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      44.016  50.199  48.153  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      45.768  50.542  48.181  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.7     11.064     12.746
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      45.330  45.060  51.218  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      45.213  43.901  51.508  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      45.118  42.859  51.718  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      45.430  46.450  50.751  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      44.898  47.092  51.468  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      46.491  46.735  50.752  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      44.857  46.627  49.393  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      45.145  47.891  48.662  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      46.210  47.839  48.402  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      44.370  48.028  47.321  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      43.764  48.943  47.330  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      43.663  47.198  47.195  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      45.307  48.008  46.117  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      46.407  48.885  46.053  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      47.282  48.841  44.955  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      46.585  49.594  46.854  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      47.065  47.922  43.916  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      48.133  49.516  44.913  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      45.965  47.050  43.970  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      47.748  47.882  43.073  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      45.087  47.098  45.066  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      45.795  46.338  43.167  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      44.239  46.418  45.100  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      44.995  49.159  49.537  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      45.693  49.120  50.383  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      43.982  49.232  49.950  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      45.208  50.075  48.969  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      43.436  46.220  49.312  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      43.339  45.134  49.454  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      42.849  46.723  50.092  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      43.016  46.489  48.330  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.5     10.808     12.430
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      45.137  49.143  47.404  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      44.837  50.264  47.713  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      44.574  51.272  47.940  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      45.572  47.819  46.935  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      46.441  47.958  46.276  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      45.890  47.235  47.809  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      44.496  47.103  46.206  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      43.724  46.057  46.932  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      44.431  45.230  47.084  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      43.250  46.498  48.346  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      42.168  46.336  48.445  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      43.410  47.574  48.489  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      44.012  45.777  49.453  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      44.880  46.487  50.304  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      45.556  45.821  51.339  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      45.023  47.554  50.167  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      45.371  44.443  51.530  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      46.220  46.376  51.997  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      44.515  43.726  50.678  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      45.887  43.931  52.336  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      43.842  44.392  49.640  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      44.370  42.659  50.824  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      43.179  43.830  48.986  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      42.563  45.459  46.103  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      41.706  46.145  46.101  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      42.223  44.510  46.534  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      42.854  45.284  45.058  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      44.903  46.684  44.846  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      44.213  45.920  44.458  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      44.888  47.541  44.161  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      45.922  46.267  44.862  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.4      9.107     10.187
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      44.393  28.119  45.098  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      45.098  29.074  44.916  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      45.703  29.927  44.710  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      43.536  26.929  45.199  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      44.093  26.070  44.798  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      43.332  26.745  46.262  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      42.261  27.094  44.457  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      42.320  27.541  43.038  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      42.931  28.454  43.048  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      43.043  26.537  42.096  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      42.314  26.060  41.428  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      43.502  25.725  42.674  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      44.156  27.207  41.297  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      45.491  26.779  41.430  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      46.506  27.382  40.669  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      45.738  25.976  42.117  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      46.196  28.416  39.772  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      47.534  27.043  40.772  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      44.868  28.855  39.641  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      46.979  28.875  39.178  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      43.853  28.254  40.406  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      44.625  29.655  38.947  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      42.827  28.599  40.296  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      40.947  27.970  42.467  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      40.997  28.041  41.374  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      40.656  28.955  42.848  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      40.157  27.249  42.720  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      41.224  27.798  45.244  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      41.160  28.852  44.936  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      40.242  27.333  45.087  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      41.464  27.756  46.318  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.3     10.802     11.826
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      41.077  24.413  39.605  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      41.145  23.591  38.732  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      41.167  22.838  37.977  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      40.951  25.330  40.747  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      41.174  26.347  40.396  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      39.909  25.302  41.094  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      41.867  24.968  41.858  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      43.332  25.129  41.648  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      43.464  25.184  40.560  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      43.905  26.452  42.231  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      44.500  26.238  43.129  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      43.094  27.116  42.554  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      44.731  27.216  41.200  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      44.148  28.243  40.435  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      44.922  28.961  39.508  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      43.098  28.487  40.562  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      46.283  28.658  39.341  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      44.467  29.757  38.924  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      46.869  27.628  40.095  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      46.883  29.220  38.633  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      46.093  26.907  41.018  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      47.922  27.393  39.968  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      46.556  26.113  41.600  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      44.160  23.902  42.101  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      44.037  23.739  43.179  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      45.228  24.059  41.912  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      43.845  22.984  41.586  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      41.511  23.683  42.501  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      41.339  23.828  43.578  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      40.594  23.274  42.058  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      42.322  22.949  42.366  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.3     11.193     12.391
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      46.287  28.256  39.720  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      47.433  27.990  39.478  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      48.436  27.708  39.253  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      44.870  28.464  40.053  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      44.760  29.478  40.463  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      44.289  28.401  39.124  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      44.374  27.467  41.034  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      42.951  27.039  40.951  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      42.742  26.936  39.878  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      42.677  25.648  41.590  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      41.903  25.738  42.363  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      43.573  25.273  42.100  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      42.284  24.609  40.544  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      41.118  24.775  39.774  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      40.778  23.828  38.793  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      40.480  25.639  39.931  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      41.600  22.711  38.576  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      39.879  23.964  38.197  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      42.761  22.534  39.348  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      41.342  21.985  37.812  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      43.097  23.479  40.332  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      43.399  21.671  39.182  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      43.999  23.336  40.924  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      41.954  28.107  41.463  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      41.509  27.785  42.413  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      41.135  28.251  40.749  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      42.445  29.074  41.634  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      44.814  27.754  42.418  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      45.128  26.827  42.920  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      45.664  28.448  42.413  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      43.993  28.209  42.994  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.1      6.039      8.279
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      51.298  33.679  42.909  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      50.739  34.724  43.099  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      50.218  35.646  43.225  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      51.977  32.423  42.555  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      52.043  31.803  43.460  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      51.356  31.896  41.818  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      53.334  32.658  42.004  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      53.753  31.887  40.801  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      54.077  30.910  41.182  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      52.595  31.610  39.801  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      51.668  31.400  40.352  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      52.803  30.712  39.206  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      52.398  32.764  38.824  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      52.953  32.711  37.532  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      52.744  33.765  36.628  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      53.541  31.850  37.228  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      51.979  34.879  37.008  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      53.170  33.716  35.629  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      51.430  34.944  38.300  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      51.809  35.689  36.306  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      51.644  33.891  39.205  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      50.836  35.804  38.597  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      51.213  33.948  40.202  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      54.991  32.481  40.086  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      55.894  31.923  40.366  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      55.147  33.526  40.378  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      54.893  32.434  38.993  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      54.379  32.711  43.051  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      54.903  31.746  43.119  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      55.118  33.488  42.816  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      53.929  32.940  44.030  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.0     27.798     29.221
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C7_7  and  C8_8 
+REMARK    3  A    between atoms: C8_8  and  C8C_9 
+REMARK    4  A    between atoms: C8_8  and  N9_11 
+REMARK    5  A    between atoms: C9N_10  and  N9_11 
+REMARK    6  A    between atoms: C10_12  and  N9_11 
+REMARK    7  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C11 DPK A   1      66.368  49.769  55.486  1.00  0.00    -0.087 C 
+HETATM    2  C12 DPK A   1      67.394  50.371  55.325  1.00  0.00    -0.152 C 
+HETATM    3  H17 DPK A   1      68.326  50.878  55.218  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  C10 DPK A   1      65.139  49.026  55.804  1.00  0.00     0.166 C 
+HETATM    5  H15 DPK A   1      64.401  49.232  55.016  1.00  0.00     0.099 H 
+HETATM    6  H16 DPK A   1      65.376  47.954  55.786  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  N9  DPK A   1      64.584  49.404  57.127  1.00  0.00     0.099 N 
+BRANCH   7   8
+HETATM    8  C8  DPK A   1      65.478  49.337  58.315  1.00  0.00     0.136 C 
+HETATM    9  H08 DPK A   1      66.461  49.669  57.957  1.00  0.00     0.088 H 
+BRANCH   8  10
+HETATM   10  C7  DPK A   1      65.073  50.311  59.458  1.00  0.00    -0.012 C 
+HETATM   11  H07 DPK A   1      65.126  49.795  60.426  1.00  0.00     0.043 H 
+HETATM   12  H06 DPK A   1      64.030  50.632  59.342  1.00  0.00     0.043 H 
+BRANCH  10  13
+HETATM   13  C1  DPK A   1      65.934  51.570  59.464  1.00  0.00    -0.056 A 
+HETATM   14  C6  DPK A   1      65.452  52.764  60.032  1.00  0.00    -0.077 A 
+HETATM   15  C5  DPK A   1      66.262  53.912  60.060  1.00  0.00    -0.082 A 
+HETATM   16  H05 DPK A   1      64.454  52.800  60.457  1.00  0.00     0.084 H 
+HETATM   17  C4  DPK A   1      67.557  53.874  59.521  1.00  0.00    -0.083 A 
+HETATM   18  H04 DPK A   1      65.886  54.830  60.505  1.00  0.00     0.083 H 
+HETATM   19  C3  DPK A   1      68.042  52.688  58.944  1.00  0.00    -0.082 A 
+HETATM   20  H03 DPK A   1      68.186  54.758  59.551  1.00  0.00     0.083 H 
+HETATM   21  C2  DPK A   1      67.229  51.542  58.912  1.00  0.00    -0.077 A 
+HETATM   22  H02 DPK A   1      69.044  52.656  58.526  1.00  0.00     0.083 H 
+HETATM   23  H01 DPK A   1      67.613  50.628  58.465  1.00  0.00     0.084 H 
+ENDBRANCH  10  13
+ENDBRANCH   8  10
+BRANCH   8  24
+HETATM   24  C8C DPK A   1      65.697  47.899  58.844  1.00  0.00    -0.047 C 
+HETATM   25  H09 DPK A   1      64.971  47.214  58.390  1.00  0.00     0.030 H 
+HETATM   26  H11 DPK A   1      65.555  47.856  59.931  1.00  0.00     0.030 H 
+HETATM   27  H10 DPK A   1      66.703  47.526  58.608  1.00  0.00     0.030 H 
+ENDBRANCH   8  24
+ENDBRANCH   7   8
+BRANCH   7  28
+HETATM   28  C9N DPK A   1      63.245  48.823  57.376  1.00  0.00     0.097 C 
+HETATM   29  H13 DPK A   1      62.767  49.315  58.236  1.00  0.00     0.071 H 
+HETATM   30  H14 DPK A   1      62.600  48.960  56.498  1.00  0.00     0.071 H 
+HETATM   31  H12 DPK A   1      63.328  47.745  57.584  1.00  0.00     0.071 H 
+ENDBRANCH   7  28
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 7
+ENDMDL

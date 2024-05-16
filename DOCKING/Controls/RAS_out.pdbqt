@@ -1,0 +1,387 @@
+MODEL 1
+REMARK VINA RESULT:      -5.9      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      41.757  24.109  39.856  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      42.212  23.075  39.453  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      42.633  22.169  39.080  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      41.250  25.399  40.327  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      40.179  25.281  40.531  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      41.350  26.133  39.516  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      41.960  25.885  41.522  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      42.777  25.294  41.672  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      42.367  27.303  41.467  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      43.813  27.507  41.046  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      44.957  26.838  41.514  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      43.924  28.487  40.067  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      46.212  27.179  40.982  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      44.880  26.062  42.270  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      47.102  26.668  41.332  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      46.320  28.177  39.994  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      47.297  28.433  39.589  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      45.170  28.840  39.526  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      45.248  29.606  38.759  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      42.579  29.061  39.696  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      42.472  30.078  40.093  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      42.421  29.087  38.609  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      41.578  28.094  40.384  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      40.734  28.643  40.823  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      41.178  27.404  39.629  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      42.204  27.791  42.437  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.9     20.987     22.511
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      45.503  46.685  50.243  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      45.186  45.868  51.063  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      44.928  45.144  51.801  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      45.938  47.696  49.278  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      46.363  47.170  48.415  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      46.744  48.290  49.729  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      44.842  48.588  48.860  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      45.091  49.543  49.113  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      44.503  48.520  47.425  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      45.669  48.844  46.505  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      46.574  49.916  46.596  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      45.787  47.909  45.484  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      47.594  50.029  45.635  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      46.499  50.645  47.396  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      48.301  50.850  45.696  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      47.706  49.082  44.599  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      48.499  49.179  43.861  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      46.799  48.009  44.517  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      46.886  47.272  43.723  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      44.731  46.836  45.585  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      43.977  46.963  44.798  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      45.154  45.825  45.509  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      44.109  47.079  46.986  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      43.018  46.950  46.964  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      44.523  46.344  47.689  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      43.666  49.192  47.192  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.9     10.963     11.291
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      53.591  31.586  37.993  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      53.708  30.488  38.463  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      53.792  29.517  38.894  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      53.389  32.925  37.436  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      52.569  32.863  36.711  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      54.293  33.217  36.885  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      53.096  33.931  38.473  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      53.295  34.854  38.089  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      51.718  33.891  39.001  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      51.648  33.710  40.509  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      52.351  32.791  41.307  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      50.764  34.612  41.088  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      52.140  32.796  42.696  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      53.053  32.091  40.866  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      52.680  32.093  43.324  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      51.239  33.707  43.279  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      51.084  33.702  44.355  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      50.542  34.628  42.474  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      49.850  35.337  42.920  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      50.134  35.517  40.059  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      49.082  35.247  39.901  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      50.189  36.576  40.344  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      50.969  35.237  38.781  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      50.331  35.200  37.888  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      51.693  36.053  38.646  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      51.140  33.092  38.517  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.8      1.574      1.768
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      43.515  24.179  41.434  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      43.928  23.420  40.601  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      44.293  22.728  39.877  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      42.992  25.056  42.483  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      42.531  24.420  43.248  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      42.197  25.681  42.054  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      44.032  25.916  43.073  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      44.944  25.546  42.806  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      43.940  27.342  42.703  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      44.835  27.730  41.539  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      46.189  27.409  41.339  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      44.146  28.485  40.597  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      46.834  27.868  40.178  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      46.733  26.810  42.062  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      47.878  27.625  40.011  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      46.133  28.639  39.230  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      46.643  28.988  38.335  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      44.777  28.952  39.433  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      44.230  29.541  38.701  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      42.706  28.696  40.996  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      42.543  29.734  41.314  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      42.009  28.463  40.180  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      42.521  27.720  42.188  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      41.913  28.173  42.982  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      41.998  26.823  41.831  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      44.175  27.982  43.565  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.7     11.237     13.482
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      33.102  36.270  36.515  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      33.954  36.691  37.248  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      34.712  37.042  37.909  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      32.078  35.699  35.638  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      31.863  36.437  34.856  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      31.157  35.558  36.218  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      32.492  34.415  35.046  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      33.503  34.431  34.918  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      32.101  33.222  35.822  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      33.034  32.916  36.982  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      34.439  32.883  36.982  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      32.326  32.660  38.151  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      35.114  32.581  38.177  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      35.002  33.093  36.078  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      36.199  32.555  38.190  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      34.392  32.317  39.357  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      34.925  32.085  40.276  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      32.985  32.357  39.352  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      32.424  32.160  40.261  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      30.836  32.768  37.936  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      30.373  31.773  37.947  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      30.349  33.394  38.695  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      30.726  33.408  36.526  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      29.912  32.954  35.945  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      30.503  34.478  36.641  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      32.038  32.339  35.171  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.5      1.486      3.063
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      43.284  24.627  41.824  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      43.191  23.884  40.887  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      43.131  23.214  40.060  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      43.442  25.498  42.990  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      43.884  24.899  43.795  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      42.447  25.818  43.327  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      44.271  26.682  42.703  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      45.089  26.655  43.310  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      44.692  26.816  41.295  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      43.908  27.862  40.520  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      42.516  28.053  40.483  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      44.751  28.695  39.794  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      41.992  29.094  39.698  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      41.850  27.415  41.055  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      40.919  29.254  39.664  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      42.850  29.932  38.960  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      42.433  30.734  38.356  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      44.243  29.738  39.005  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      44.908  30.387  38.442  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      46.202  28.330  39.990  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      46.604  27.852  39.087  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      46.822  29.202  40.236  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      46.159  27.323  41.171  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      46.859  26.492  41.010  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      46.457  27.844  42.090  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      44.616  25.852  40.774  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.3     11.066     13.704
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      34.459  36.736  36.930  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      34.655  37.404  37.907  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      34.851  38.003  38.766  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      34.267  35.948  35.711  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      34.940  36.352  34.946  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      33.239  36.097  35.354  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      34.513  34.511  35.920  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      35.502  34.328  35.757  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      34.120  34.003  37.249  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      32.751  33.345  37.271  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      31.551  33.819  36.714  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      32.784  32.124  37.934  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      30.386  33.043  36.843  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      31.516  34.765  36.183  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      29.454  33.396  36.415  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      30.423  31.809  37.521  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      29.515  31.217  37.615  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      31.629  31.338  38.073  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      31.663  30.384  38.591  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      34.169  31.797  38.434  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      34.219  31.903  39.526  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      34.482  30.780  38.163  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      35.059  32.861  37.738  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      35.831  33.241  38.420  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      35.563  32.394  36.881  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      34.142  34.809  37.995  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.2      2.151      2.182
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      40.546  25.739  43.666  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      40.355  24.721  44.270  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      40.210  23.814  44.811  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      40.834  26.986  42.955  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      40.956  27.776  43.706  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      39.964  27.249  42.340  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      42.031  26.887  42.101  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      41.817  26.270  41.319  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      42.541  28.178  41.598  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      43.985  28.123  41.128  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      45.089  27.545  41.779  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      44.140  28.732  39.889  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      46.349  27.600  41.160  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      44.977  27.056  42.741  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      47.209  27.155  41.651  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      46.503  28.224  39.907  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      47.483  28.260  39.438  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      45.393  28.796  39.259  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      45.505  29.273  38.289  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      42.831  29.266  39.361  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      42.812  30.362  39.417  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      42.644  28.961  38.323  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      41.782  28.649  40.324  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      40.994  29.374  40.571  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      41.309  27.791  39.828  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      42.444  28.959  42.365  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.1      2.219      4.330
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  NAJ_13 
+REMARK    2  A    between atoms: CAK_10  and  CAL_11 
+REMARK    3  A    between atoms: CAK_10  and  NAJ_13 
+ROOT
+HETATM    1  CAL RAU A   1      45.626  28.578  39.689  1.00  0.00    -0.087 C 
+HETATM    2  CAM RAU A   1      46.614  28.040  40.105  1.00  0.00    -0.152 C 
+HETATM    3  H12 RAU A   1      47.499  27.584  40.486  1.00  0.00     0.166 H 
+ENDROOT
+BRANCH   1   4
+HETATM    4  CAK RAU A   1      44.426  29.277  39.225  1.00  0.00     0.165 C 
+HETATM    5  H10 RAU A   1      44.101  28.797  38.294  1.00  0.00     0.099 H 
+HETATM    6  H11 RAU A   1      44.694  30.314  38.984  1.00  0.00     0.099 H 
+BRANCH   4   7
+HETATM    7  NAJ RAU A   1      43.343  29.266  40.224  1.00  0.00     0.103 N 
+HETATM    8  H13 RAU A   1      42.573  29.831  39.869  1.00  0.00     0.317 HD
+BRANCH   7   9
+HETATM    9  CAI RAU A   1      42.853  27.923  40.591  1.00  0.00     0.159 C 
+HETATM   10  CAF RAU A   1      42.920  27.635  42.082  1.00  0.00    -0.019 A 
+HETATM   11  CAA RAU A   1      43.990  27.865  42.964  1.00  0.00    -0.074 A 
+HETATM   12  CAE RAU A   1      41.731  27.088  42.548  1.00  0.00    -0.050 A 
+HETATM   13  CAB RAU A   1      43.840  27.528  44.320  1.00  0.00    -0.082 A 
+HETATM   14  H01 RAU A   1      44.919  28.304  42.613  1.00  0.00     0.084 H 
+HETATM   15  H02 RAU A   1      44.658  27.705  45.012  1.00  0.00     0.083 H 
+HETATM   16  CAC RAU A   1      42.635  26.969  44.787  1.00  0.00    -0.082 A 
+HETATM   17  H03 RAU A   1      42.530  26.712  45.838  1.00  0.00     0.083 H 
+HETATM   18  CAD RAU A   1      41.566  26.745  43.899  1.00  0.00    -0.076 A 
+HETATM   19  H04 RAU A   1      40.632  26.319  44.257  1.00  0.00     0.084 H 
+HETATM   20  CAG RAU A   1      40.712  26.944  41.445  1.00  0.00    -0.038 C 
+HETATM   21  H06 RAU A   1      40.588  25.889  41.170  1.00  0.00     0.040 H 
+HETATM   22  H05 RAU A   1      39.732  27.353  41.726  1.00  0.00     0.040 H 
+HETATM   23  CAH RAU A   1      41.339  27.747  40.274  1.00  0.00    -0.028 C 
+HETATM   24  H08 RAU A   1      41.187  27.235  39.315  1.00  0.00     0.037 H 
+HETATM   25  H07 RAU A   1      40.850  28.728  40.217  1.00  0.00     0.037 H 
+HETATM   26  H09 RAU A   1      43.411  27.145  40.051  1.00  0.00     0.096 H 
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+TORSDOF 3
+ENDMDL
