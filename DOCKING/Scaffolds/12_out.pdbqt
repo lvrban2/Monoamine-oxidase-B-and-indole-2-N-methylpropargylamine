@@ -1,0 +1,207 @@
+MODEL 1
+REMARK VINA RESULT:      -7.0      0.000      0.000
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      43.163  45.468  46.905  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      44.085  44.977  49.730  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      43.319  45.580  45.515  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      44.972  49.781  47.691  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      44.719  47.536  45.831  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      44.574  47.432  47.229  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      44.090  46.620  44.978  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      45.283  48.454  48.119  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      44.936  48.326  49.586  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      44.191  47.341  50.096  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      43.573  46.229  49.276  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      43.790  46.383  47.772  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.0      0.156      2.915
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      44.751  47.530  45.793  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      44.888  49.787  47.783  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      44.108  46.604  44.959  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      43.963  44.933  49.681  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      43.202  45.480  46.909  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      43.840  46.407  47.758  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      43.340  45.573  45.519  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      43.657  46.266  49.270  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      44.504  47.226  50.076  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      45.245  48.201  49.542  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      45.358  48.467  48.056  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      44.621  47.446  47.192  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.6     15.172     16.848
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      49.804  35.539  40.855  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      51.221  35.583  38.197  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      49.680  35.748  42.237  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      52.296  31.548  41.449  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      51.363  34.050  42.645  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      51.501  33.832  41.260  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      50.454  34.997  43.132  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      52.510  32.789  40.777  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      52.462  32.543  39.284  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      51.715  33.252  38.433  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      50.797  34.383  38.844  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      50.714  34.588  40.354  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.6      1.911      3.611
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      43.440  46.292  48.275  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      42.916  47.310  45.489  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      43.559  46.397  49.668  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      47.715  48.206  47.533  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      45.487  47.843  49.395  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      45.378  47.749  47.993  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      44.588  47.166  50.229  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      46.381  48.509  47.125  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      46.250  48.215  45.647  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      45.276  47.473  45.114  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      44.180  46.805  45.917  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      44.339  46.967  47.427  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.3     15.344     16.842
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      51.403  33.757  42.568  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      52.310  31.335  41.024  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      50.462  34.654  43.094  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      51.184  35.698  38.246  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      49.886  35.365  40.847  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      50.825  34.466  40.306  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      49.708  35.465  42.233  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      50.979  34.392  38.786  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      52.115  33.500  38.334  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      52.841  32.736  39.156  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      52.642  32.673  40.655  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      51.591  33.650  41.177  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.2     19.690     20.504
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      45.340  26.760  41.179  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      42.877  27.015  42.895  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      46.565  27.178  40.638  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      42.835  29.480  38.210  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      45.431  28.968  39.458  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      44.195  28.562  39.997  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      46.609  28.278  39.770  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      42.938  29.350  39.629  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      41.659  28.733  40.151  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      41.616  27.678  40.969  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      42.839  26.939  41.469  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      44.150  27.446  40.871  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.0     16.218     17.714
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      51.323  34.047  41.588  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      52.411  31.258  41.259  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      50.347  35.052  41.509  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      52.349  34.357  36.968  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      50.413  34.925  39.088  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      51.391  33.913  39.153  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      49.898  35.497  40.258  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      51.919  33.317  37.847  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      53.064  32.347  38.042  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      53.499  31.932  39.235  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      52.923  32.391  40.557  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      51.848  33.466  40.418  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.7     16.078     17.569
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      52.985  32.553  41.813  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      52.822  31.086  39.188  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      52.493  33.042  43.032  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      50.932  36.028  39.324  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      50.993  34.523  41.832  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      51.475  34.038  40.601  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      51.502  34.034  43.042  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      50.885  34.601  39.307  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      51.583  34.111  38.057  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      52.535  33.174  38.050  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      53.064  32.489  39.292  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      52.481  33.038  40.591  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.5     22.617     24.080
+REMARK  Name = obj01
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C01 UNK A   1      67.646  50.682  58.059  0.00  0.00    +0.007 C 
+ATOM      2  O01 UNK A   1      65.112  51.133  59.624  0.00  0.00    -0.384 OA
+ATOM      3  C02 UNK A   1      68.572  50.929  57.035  0.00  0.00    +0.000 C 
+ATOM      4  O02 UNK A   1      64.737  48.298  55.170  0.00  0.00    -0.384 OA
+ATOM      5  C03 UNK A   1      66.944  50.207  55.388  0.00  0.00    +0.007 C 
+ATOM      6  C09 UNK A   1      66.002  49.958  56.406  0.00  0.00    -0.010 C 
+ATOM      7  C10 UNK A   1      68.223  50.684  55.699  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNK A   1      64.617  49.442  56.016  0.00  0.00    +0.167 C 
+ATOM      9  C12 UNK A   1      63.749  49.076  57.200  0.00  0.00    +0.008 C 
+ATOM     10  C13 UNK A   1      64.086  49.300  58.473  0.00  0.00    +0.008 C 
+ATOM     11  C14 UNK A   1      65.392  49.929  58.909  0.00  0.00    +0.167 C 
+ATOM     12  C15 UNK A   1      66.357  50.202  57.758  0.00  0.00    -0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL

@@ -1,0 +1,252 @@
+MODEL 1
+REMARK VINA RESULT:      -5.6      0.000      0.000
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      40.938  39.304  40.724  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      41.758  38.741  39.781  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      42.973  38.242  40.149  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      43.337  38.316  41.460  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      42.543  38.868  42.381  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      41.342  39.360  42.008  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      43.132  38.830  43.616  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      44.332  38.239  43.436  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      44.448  37.934  42.118  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      45.595  37.294  41.537  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      46.894  37.785  42.240  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      47.858  36.577  41.854  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      47.130  35.505  41.830  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      45.550  36.012  41.775  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.5      9.850     10.528
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      40.733  27.367  44.604  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      42.047  27.667  44.848  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      42.881  27.957  43.808  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      42.374  27.946  42.543  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      41.094  27.650  42.302  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      40.276  27.363  43.336  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      40.831  27.697  40.960  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      41.996  28.026  40.364  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      42.931  28.171  41.339  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      44.303  28.518  41.095  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      45.217  27.280  41.325  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      46.481  27.740  40.473  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      46.031  28.423  39.467  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      44.461  28.821  39.835  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.2     10.062     10.658
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      39.591  26.983  43.316  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      39.979  26.631  42.050  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      41.282  26.782  41.673  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      42.169  27.281  42.579  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      41.793  27.629  43.813  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      40.502  27.477  44.177  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      42.857  28.108  44.527  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      43.917  28.055  43.695  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      43.485  27.553  42.509  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      44.329  27.348  41.364  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      44.267  28.589  40.426  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      45.631  28.370  39.634  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      46.472  27.842  40.467  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      45.575  27.278  41.745  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.1     22.284     23.037
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      64.695  48.874  42.147  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      64.460  47.524  42.110  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      64.479  46.800  43.266  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      64.730  47.450  44.438  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      64.964  48.765  44.477  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      64.944  49.473  43.328  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      65.196  49.178  45.760  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      65.106  48.072  46.528  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      64.826  47.024  45.711  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      64.658  45.672  46.163  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      66.022  45.096  46.644  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      65.483  43.918  47.571  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      64.379  44.335  48.107  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      63.896  45.655  47.222  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.0      9.669     11.335
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      46.770  27.650  40.033  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      46.315  26.685  40.893  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      45.001  26.667  41.260  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      44.169  27.618  40.749  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      44.610  28.563  39.914  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      45.912  28.574  39.557  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      43.592  29.401  39.549  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      42.493  28.953  40.192  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      42.858  27.868  40.924  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      41.958  27.114  41.751  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      41.399  28.015  42.891  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      40.090  27.181  43.248  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      39.659  26.660  42.142  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      40.911  26.766  41.055  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.0     10.435     11.851
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      41.976  24.161  44.178  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      42.413  23.834  42.921  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      43.213  24.700  42.234  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      43.561  25.876  42.828  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      43.134  26.200  44.051  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      42.342  25.338  44.724  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      43.609  27.429  44.421  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      44.347  27.870  43.382  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      44.307  26.917  42.414  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      44.975  27.027  41.147  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      44.646  28.397  40.487  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      45.881  28.495  39.486  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      46.890  27.936  40.076  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      46.266  27.046  41.332  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.8     25.000     26.643
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      58.599  44.960  64.743  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      59.003  46.265  64.846  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      58.869  47.104  63.778  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      58.327  46.612  62.628  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      57.936  45.339  62.523  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      58.073  44.517  63.584  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      57.436  45.088  61.274  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      57.533  46.249  60.594  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      58.081  47.171  61.429  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      58.346  48.534  61.061  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      58.126  48.728  59.533  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      57.913  50.306  59.510  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      57.306  50.621  60.611  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      57.471  49.319  61.628  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.8     30.387     32.103
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      28.982  47.273  71.034  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      28.532  48.028  69.983  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      29.427  48.614  69.136  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      30.758  48.426  69.362  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      31.200  47.694  70.388  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      30.308  47.118  71.221  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      32.568  47.661  70.406  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      32.971  48.407  69.356  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      31.859  48.871  68.729  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      31.882  49.708  67.563  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      32.076  51.196  67.976  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      32.627  51.769  66.596  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      33.332  50.828  66.051  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      32.929  49.423  66.838  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.7     19.389     20.900
+REMARK  Name = BYC
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1D_1  and  N9A_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1A BYC A   1      42.788  42.745  63.001  0.00  0.00    +0.000 NA
+ATOM      2  C2A BYC A   1      43.229  42.487  61.730  0.00  0.00    +0.000 A 
+ATOM      3  N3A BYC A   1      44.209  41.560  61.527  0.00  0.00    +0.000 NA
+ATOM      4  C4A BYC A   1      44.723  40.908  62.607  0.00  0.00    +0.000 A 
+ATOM      5  C5M BYC A   1      44.298  41.160  63.848  0.00  0.00    +0.000 A 
+ATOM      6  C6A BYC A   1      43.328  42.079  64.040  0.00  0.00    +0.000 A 
+ATOM      7  N7A BYC A   1      44.970  40.388  64.757  0.00  0.00    +0.000 NA
+ATOM      8  C8A BYC A   1      45.839  39.644  64.041  0.00  0.00    +0.000 A 
+ATOM      9  N9A BYC A   1      45.683  39.973  62.732  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1D BYC A   1      46.440  39.391  61.659  0.00  0.00    +0.000 C 
+ATOM     11  C2D BYC A   1      47.613  38.543  62.231  0.00  0.00    +0.000 C 
+ATOM     12  C3D BYC A   1      47.886  37.610  60.970  0.00  0.00    +0.000 C 
+ATOM     13  C4D BYC A   1      46.740  37.398  60.403  0.00  0.00    +0.000 C 
+ATOM     14  O4D BYC A   1      45.696  38.538  61.010  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL

@@ -1,0 +1,333 @@
+MODEL 1
+REMARK VINA RESULT:      -6.7      0.000      0.000
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      42.013  26.587  41.609  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      42.131  28.015  41.323  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      41.318  28.672  40.300  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      43.857  28.218  40.893  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      44.156  28.919  39.716  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      44.863  27.511  41.571  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      45.466  28.919  39.207  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      46.180  27.520  41.073  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      46.478  28.216  39.887  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      40.885  29.380  42.546  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      41.715  28.852  42.760  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      41.689  28.307  44.050  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      42.896  27.902  44.667  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      40.484  28.162  44.770  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      42.890  27.342  45.962  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      41.676  27.194  46.656  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      40.477  27.617  46.060  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.6      3.045      5.066
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      41.730  26.336  43.319  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      41.486  26.840  41.969  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      40.175  27.329  41.548  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      41.945  25.466  40.917  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      41.041  25.084  39.915  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      43.048  24.653  41.222  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      41.234  23.885  39.209  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      43.255  23.458  40.507  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      42.343  23.070  39.508  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      42.466  28.722  42.607  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      42.507  28.199  41.748  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      43.792  28.180  41.189  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      44.020  28.783  39.931  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      44.883  27.583  41.857  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      45.304  28.766  39.346  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      46.374  28.154  40.024  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      46.160  27.574  41.284  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.6      0.540      1.298
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      41.862  26.705  41.385  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      42.328  28.059  41.091  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      41.666  28.911  40.106  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      44.028  27.819  40.583  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      44.769  26.826  41.240  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      44.669  28.734  39.733  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      46.159  26.739  41.050  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      46.059  28.643  39.528  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      46.804  27.651  40.193  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      41.526  29.683  42.368  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      42.203  28.959  42.544  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      42.099  28.426  43.835  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      43.232  27.846  44.451  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      40.886  28.463  44.557  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      43.145  27.295  45.747  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      41.923  27.330  46.443  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      40.800  27.926  45.847  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.2      1.760      2.400
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      43.269  25.353  42.465  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      42.845  26.741  42.294  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      41.600  27.094  41.613  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      44.208  27.493  41.410  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      43.903  28.483  40.464  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      45.504  26.959  41.482  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      44.894  28.948  39.583  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      46.505  27.432  40.612  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      46.197  28.419  39.657  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      41.907  26.869  44.297  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      42.642  27.402  43.862  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      43.670  27.732  44.754  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      44.382  28.943  44.591  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      44.013  26.891  45.835  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      45.427  29.289  45.473  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      45.761  28.429  46.535  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      45.043  27.237  46.718  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.2      1.565      6.046
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      40.620  28.185  40.541  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      41.411  27.308  41.401  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      41.940  26.029  40.930  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      40.332  26.998  42.795  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      39.072  26.442  42.530  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      40.629  27.501  44.071  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      38.099  26.383  43.542  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      39.663  27.431  45.093  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      38.396  26.881  44.825  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      42.924  28.050  42.841  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      42.818  28.180  41.848  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      44.043  28.168  41.169  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      44.181  28.877  39.954  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      45.164  27.473  41.673  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      45.403  28.870  39.250  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      46.504  28.159  39.764  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      46.381  27.472  40.982  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.9     10.355     11.913
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      54.368  32.761  40.637  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      53.040  32.198  40.401  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      52.523  31.965  39.054  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      51.943  33.337  41.241  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      51.673  33.100  42.597  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      51.198  34.289  40.527  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      50.655  33.815  43.250  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      50.187  35.019  41.180  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      49.910  34.775  42.538  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      52.426  30.073  40.528  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      53.023  30.637  41.109  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      54.141  29.935  41.577  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      54.238  29.597  42.946  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      55.181  29.535  40.710  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      55.360  28.898  43.438  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      56.392  28.521  42.559  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      56.292  28.832  41.194  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.9     11.041     12.928
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      55.057  31.465  41.548  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      53.984  31.182  42.500  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      53.399  29.849  42.636  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      52.689  32.325  42.029  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      52.583  32.663  40.672  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      51.961  33.037  42.995  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      51.743  33.716  40.270  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      51.108  34.083  42.597  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      51.006  34.428  41.237  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      54.790  30.611  44.484  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      54.603  31.507  44.065  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      55.575  32.464  44.382  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      56.901  32.057  44.653  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      55.272  33.842  44.427  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      57.893  33.004  44.985  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      57.566  34.372  45.036  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      56.256  34.786  44.745  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.9      2.871      5.032
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      42.873  26.120  44.709  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      42.434  26.702  43.442  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      41.115  27.311  43.283  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      42.576  25.344  42.283  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      43.728  24.547  42.353  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      41.694  25.219  41.198  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      44.006  23.616  41.338  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      41.959  24.277  40.186  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      43.119  23.483  40.252  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      44.073  28.121  43.902  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      43.511  27.984  43.077  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      44.246  28.130  41.894  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      45.585  27.680  41.838  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      43.680  28.706  40.736  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      46.346  27.827  40.658  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      45.766  28.416  39.519  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      44.429  28.843  39.561  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.8      2.191      3.111
+REMARK  Name = QAP
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C01_1  and  S02_3
+REMARK    2  A    between atoms: S02_3  and  N01_17
+REMARK    3  A    between atoms: C6_7  and  N01_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O01 QAP A   1      42.400  28.859  42.949  0.00  0.00    -0.478 OA
+ATOM      2  S02 QAP A   1      43.034  27.551  42.797  0.00  0.00    -0.107 S 
+ATOM      3  O03 QAP A   1      43.752  26.905  43.894  0.00  0.00    -0.478 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C01 QAP A   1      44.172  27.790  41.435  0.00  0.00    +0.339 A 
+ATOM      5  C4  QAP A   1      45.490  27.341  41.604  0.00  0.00    +0.138 A 
+ATOM      6  C5  QAP A   1      43.833  28.597  40.338  0.00  0.00    +0.138 A 
+ATOM      7  C7  QAP A   1      46.481  27.696  40.672  0.00  0.00    +0.013 A 
+ATOM      8  C8  QAP A   1      44.819  28.944  39.394  0.00  0.00    +0.013 A 
+ATOM      9  C9  QAP A   1      46.143  28.501  39.567  0.00  0.00    +0.001 A 
+ENDBRANCH   2   4
+BRANCH   2  11
+ATOM     10  H01 QAP A   1      42.224  25.522  42.426  0.00  0.00    +0.275 HD
+ATOM     11  N01 QAP A   1      41.792  26.431  42.420  0.00  0.00    -0.051 N 
+BRANCH  11  12
+ATOM     12  C6  QAP A   1      40.502  26.419  42.966  0.00  0.00    +0.127 A 
+ATOM     13  C10 QAP A   1      39.377  26.488  42.113  0.00  0.00    +0.034 A 
+ATOM     14  C11 QAP A   1      40.287  26.324  44.358  0.00  0.00    +0.034 A 
+ATOM     15  C13 QAP A   1      38.070  26.487  42.644  0.00  0.00    +0.002 A 
+ATOM     16  C15 QAP A   1      37.879  26.405  44.036  0.00  0.00    +0.000 A 
+ATOM     17  C16 QAP A   1      38.991  26.312  44.887  0.00  0.00    +0.002 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3
+ENDMDL
